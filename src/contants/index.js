@@ -135,7 +135,7 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       company_name: "Created Many Projects",
       icon: reactjs,
       iconBg: "#E6DEDD",

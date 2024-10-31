@@ -17,8 +17,7 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText}`}>Hi, I'm <span className='text-[#915eff]'>Avichal</span></h1>
-          <p className={`${styles.heroSubText} mt-3 text-white`}>I am a new web devloper
-          who is starting his journey in the world of web developement</p>
+          <p className={`text-white font-semibold  mt-3 text-xl  `}>I'm Avichal, a tech enthusiast on a mission to blend entrepreneurship and AI into innovative solutions. My journey in tech is driven by curiosity and a passion for positive impact. I'm excited to explore the latest technologies and collaborate on inspiring projects. Check out my to see what I've been working on and let's connect to create something amazing together!</p>
         </div>
       </div>
 
@@ -35,7 +34,7 @@ const Hero = () => {
               y:[0,24,0]
              }}
              transition={{
-              duration: 1.5,
+              duration: 1.0,
               repeat: Infinity,
               repeatType: 'loop'
              }}
